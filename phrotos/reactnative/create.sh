@@ -3,3 +3,4 @@
 nvm install 10
 nvm use 10
 npm install -g expo-cli
+expo init CooclePhrotos
