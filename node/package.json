@@ -1,0 +1,26 @@
+{
+  "name": "coocle",
+  "version": "0.0.1",
+  "description": "A Google API cook-out",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjwenger/Coocle.git"
+  },
+  "keywords": [
+    "Google",
+    "API"
+  ],
+  "author": "Klaus Wenger <kjwenger@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjwenger/Coocle/issues"
+  },
+  "homepage": "https://github.com/kjwenger/Coocle#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
