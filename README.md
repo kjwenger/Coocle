@@ -2,6 +2,15 @@
 
 A Google API Cook Out
 
+## Subprojects
+
+| Subproject | API | What it is |
+|------------|-----|------------|
+| [`phrotos/`](./phrotos) | Google Photos API | Multi-framework UI explorations (Electron, Ionic, Angular, React Native, …) |
+| [`portability/mcp/`](./portability/mcp) | Google Data Portability API | **MCP server** — export your Google data from a Claude conversation |
+
+---
+
 ## [Google Photos APIs](https://developers.google.com/photos/)
 
 ### [Google Photos APIs - Get started with REST](https://developers.google.com/photos/library/guides/get-started)
@@ -16,3 +25,12 @@ A Google API Cook Out
 ## [Google Developers - OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
 
 ## [Google Cloud Platform - Free Tier](https://cloud.google.com/free/)
+
+---
+
+## [Google Data Portability API](https://developers.google.com/data-portability)
+
+### [Data Portability API - REST Reference](https://developers.google.com/data-portability/reference/rest)
+### [Data Portability API - Available Resources](https://developers.google.com/data-portability/portability/overview)
+### [Data Portability API - OAuth Scopes](https://developers.google.com/data-portability/reference/rest/auth)
+### [MCP Server → portability/mcp/](./portability/mcp/README.md)

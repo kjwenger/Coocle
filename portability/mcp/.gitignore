@@ -1,0 +1,10 @@
+node_modules/
+dist/
+
+# OAuth credentials — NEVER commit these
+credentials.json
+*.json.bak
+
+# Editor
+.DS_Store
+*.local
